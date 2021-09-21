@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Carattere&family=Noto+Serif:ital@1&display=swap');
+
+@font-face {
+   font-family: 'FuturaFuturisC';
+   src: url('../fonts/FuturaFuturisC.woff2') format('woff2'),
+       url('../fonts/FuturaFuturisC.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'FuturaFuturisBlackC';
+   src: url('../fonts/FuturaFuturisBlackC.woff2') format('woff2'),
+       url('../fonts/FuturaFuturisBlackC.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'FuturaFuturisLightC';
+   src: url('../fonts/FuturaFuturisLightC.woff2') format('woff2'),
+       url('../fonts/FuturaFuturisLightC.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'FuturaFuturisC';
+   src: url('../fonts/FuturaFuturisC-Bold.woff2') format('woff2'),
+       url('../fonts/FuturaFuturisC-Bold.woff') format('woff');
+   font-weight: bold;
+   font-style: normal;
+   font-display: swap;
+}
+
+.text_style_1 {
+   font-family: 'FuturaFuturisLightC';
+   font-style: italic;
+   font-size: 20px;
+}
+.text_style_2 {
+   font-family: 'FuturaFuturisC';
+   font-weight: bold;
+   font-size: 20px;
+}
+
+.nowrap {
+   white-space: nowrap;
+   font-size: 20px;
+}
+
+.text_1,
+.text_2,
+.text_3,
+.text_4,
+.text_5,
+.text_6,
+.text_7,
+.text_8,
+.text_9,
+.text_10,
+.text_11,
+.text_12,
+.text_13 {
+font-size: 20px;
+line-height: 1;
+}
+.bold_1 {
+   line-height: 2;
+   font-size: 15px;
+   color: rgba(248, 174, 174, 0.808);
+   letter-spacing: 3px;
+}
+
+.bold_2,
+.bold_3,
+.bold_4,
+.bold_5,
+.bold_6,
+.bold_7,
+.bold_8 {
+   font-size: 25px;
+   text-decoration: underline;
+   color: rgb(70, 104, 2);
+}
+.heading_1 {
+   text-align: center;
+   text-indent: 50px;
+   text-decoration: underline;
+   font-size: 40px;
+}
+
+.li_01 {
+   text-transform: lowercase;
+   font-size: 20px;
+}
+
+.li_1,
+.li_2,
+.li_3,
+.li_4,
+.li_5,
+.li_6 {
+margin-left: 20px;
+font-size: 20px;
+}
+
+.span_2 {
+   font-size: 20px;
+   line-height: 2;
+}
+.image_top{
+   text-align: center;
+
+}
+.image_1,
+.image_2,
+.image_3 {
+   text-align: right;
+}
+
+.image_4 {
+   text-align: left;
+}
+
+.links {
+   font-size: 25px;
+}
+
+.link_01,
+.link_02 {
+   font-size: 17px;
+   margin-left: 18px;
+}
+
+.logo {
+   text-align: center;
+}
+.flag {
+   font-size: 35px;
+}
+
+.info,
+.info_01 {
+   font-size: 15px;
+   margin-left: 32px;
+}
+
+.english_style {
+   font-family: 'Noto Serif', serif;
+   font-size: 20px;
+   text-shadow: 2px 3px 4px rgb(124, 255, 157);
+}
+
+.up {
+   font-size: 18px;
+}
